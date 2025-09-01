@@ -23,5 +23,7 @@ More text
 ## Another subsection
 
 ```{r}
+#| fig-alt: Alt text for a plot of 1 to 10
+#| fig-cap: A plot of 1 to 10
 plot(1:10)
 ```
