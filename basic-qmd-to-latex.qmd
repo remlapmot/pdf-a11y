@@ -1,0 +1,28 @@
+---
+title: "Quarto pdf example"
+format:
+  latex:
+    papersize: a4
+---
+
+# Hello World
+
+This is a new document.
+
+## Subsection
+
+Text
+
+More text
+
+```{r}
+1 + 1
+```
+
+## Another subsection
+
+```{r}
+#| fig-alt: Alt text for a plot of 1 to 10
+#| fig-cap: A plot of 1 to 10
+plot(1:10)
+```
