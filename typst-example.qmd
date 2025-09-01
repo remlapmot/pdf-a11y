@@ -1,0 +1,27 @@
+---
+title: "Hello Typst!"
+format:
+  typst:
+    toc: true
+    papersize: a4
+---
+
+# Hello World
+
+This is a new document.
+
+## Subsection
+
+Text
+
+More text
+
+```{r}
+1 + 1
+```
+
+## Another subsection
+
+```{r}
+plot(1:10)
+```
