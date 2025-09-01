@@ -1,0 +1,13 @@
+---
+title: "Untitled"
+format:
+  html:
+    embed-resources: true
+    theme: cosmo
+---
+
+Hello, World!
+
+```{r}
+1 + 1
+```
