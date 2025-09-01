@@ -3,6 +3,7 @@ title: "R Markdown pdf example"
 output:
   pdf_document:
     highlight: arrow
+papersize: a4
 ---
 
 # Hello World
