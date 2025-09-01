@@ -54,3 +54,7 @@ rsconnect/
 ~$*
 
 .quarto/
+
+*.log
+*.aux
+
