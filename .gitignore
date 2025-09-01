@@ -50,3 +50,7 @@ rsconnect/
 
 *_files/
 
+# MS Office temporary files
+~$*
+
+.quarto/
