@@ -1,6 +1,9 @@
 ---
 title: "Quarto pdf example"
-format: pdf
+format:
+  pdf:
+    pdf-engine: lualatex
+    papersize: a4
 ---
 
 # Hello World
