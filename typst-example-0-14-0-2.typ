@@ -1,3 +1,5 @@
+#set document(title: "Hello, Typst!")
+
 // Some definitions presupposed by pandoc's typst output.
 #let blockquote(body) = [
   #set text( size: 0.92em )
